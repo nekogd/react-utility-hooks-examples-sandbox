@@ -10,15 +10,16 @@ Hooks repository: https://github.com/nekogd/react-utility-hooks
 
 Medium Article: https://medium.com/@tymekluczko/the-complete-guide-to-publish-react-hook-as-npm-package-880049829e89
 
-You can recreate the app with or clone the repository
-
-PS
-
-This is just a demo to showcase the hooks and give example usage.
+I've created this app with CRA, no extra configuration:
 
 ```
 npx create-react-app my-app --template typescript
 ```
+
+PS
+
+This is just a demo to showcase the examples of hooks package.
+
 ## Below is the standard CRA readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
