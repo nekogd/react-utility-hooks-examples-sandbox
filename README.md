@@ -1,3 +1,26 @@
+## React utility hooks examples sandbox
+
+This is a React application serving as a demo for my NPM package.
+
+You can see the application in action at: https://codesandbox.io/s/github/nekogd/react-utility-hooks-examples-sandbox
+
+NPM package link: https://www.npmjs.com/package/@nekogd/react-utility-hooks
+
+Hooks repository: https://github.com/nekogd/react-utility-hooks
+
+Medium Article: https://medium.com/@tymekluczko/the-complete-guide-to-publish-react-hook-as-npm-package-880049829e89
+
+You can recreate the app with or clone the repository
+
+PS
+
+This is just a demo to showcase the hooks and give example usage.
+
+```
+npx create-react-app my-app --template typescript
+```
+## Below is the standard CRA readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
