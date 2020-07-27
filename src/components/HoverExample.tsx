@@ -2,7 +2,6 @@ import React from "react";
 import { useHover } from "@nekogd/react-utility-hooks";
 
 export const HoverExample = () => {
-  // try passing useCounter('5') to see one of TS benefits
   const [hoverRef, isHovered] = useHover();
 
   return (
